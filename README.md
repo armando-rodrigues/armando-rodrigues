@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @armando-rodrigues
 - 👀 I’m interested in Google Cloud
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS and MongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
